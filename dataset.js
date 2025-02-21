@@ -17,7 +17,12 @@ class DataSet{
 
 let d1 = new DataSet("선형회귀분석")//메인 타이틀 //메뉴번호
 d1.set_content("공부시간과 성적과의 관련성의 선형성을 가진 연속적인 데이터를 활용하여 예상값을 추출하는 모델")//서브 타이틀
-d1.set_img(0,{imgtitle:"시험성적을 임의로 만들어 선형회귀분석코드 ",imgurl:"https://drive.google.com/file/d/1JmHc19Xbm6NEerurR9NnoloyX7slF04H/view?usp=drive_link"})//이미지타이틀
+d1.set_img(0,{imgtitle:"일부코드샘플",imgurl:"https://drive.google.com/file/d/1JmHc19Xbm6NEerurR9NnoloyX7slF04H/view?usp=drive_link",imglog:"시험성적데이터를 임의로 만들어 선형회귀분석 코드",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"산점도데이터분석",imgurl:"https://drive.google.com/file/d/1tCx1VVvoaORDM2U7TVSYX6PSJfRON8Fa/view?usp=drive_link",imglog:"문제데이터의 선형성 관계 파악을 위한 산점도 그래프 분석",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"데이터전처리 표준화",imgurl:"https://drive.google.com/file/d/1CP7Qwi1aqVgfBwHzKSKSJ5aeZfEJ7SFK/view?usp=drive_link",imglog:"훈련시 모델의 올바른 학습을 위해 데이터를 정규분포로 표준화 전처리 시행",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
 
 
 d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
