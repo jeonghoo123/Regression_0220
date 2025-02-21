@@ -39,10 +39,18 @@ d1.set_img(1,{imgtitle:"테스트데이터 준비와 예측결과",imgurl:"https
 
 
 d1.set_content("보스턴 지역의 환경에 따른 하우스 가격 데이터로 예측 값은 연속데이터로 출력")
-d1.set_img(2,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://docs.google.com/document/d/1rNVbHnhYGoozaqX_RsD3cErmKYzGUMvba9ihxbP2CKk/edit?usp=drive_link"})//이미지타이틀
-d1.set_img(2,{imgtitle:"개발도구 Spring for Eclipse",imgurl:"https://drive.google.com/file/d/1vl3Ridea05eDn3Hx0cfIWzgkPi-vQX31/view?usp=drive_link",imglog:"자바 스프링 서버단 개발을 위한 도구",sourceurl:""})//이미지타이틀
-d1.set_img(2,{imgtitle:"빌드도구 gradle",imgurl:"https://drive.google.com/file/d/1vlxyuzBmzaBk7B9VoycUH0mRBBxe4nTr/view?usp=drive_link",imglog:"프로그램 빌드 및 외부 라이브러리 디펜더시를 위한 도구",sourceurl:""})//이미지타이틀
-d1.set_img(2,{imgtitle:"형상관리도구 git",imgurl:"https://drive.google.com/file/d/1yLXiqHWblzxAnZXGZKvRcxU8HSgf3UqS/view?usp=drive_link",imglog:"프로그램의 전반적인 개발협업 및 버전관를 위한 도구",sourceurl:""})//이미지타이틀
+d1.set_img(2,{imgtitle:"샘플",imgurl:"https://drive.google.com/file/d/1enuX7w4G7mv8jfL3bPAfojdmC8rWUo9F/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"산점도 분석코드",imgurl:"https://drive.google.com/file/d/1uvpn_x0bzTGrZz5JhCb4voWlLIXCFu2Y/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"1. 데이터 분석",imgurl:"https://drive.google.com/file/d/1EUas5QWCLGmtCbuWezZiv_5EuL7qg7Px/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"2. 데이터 분석",imgurl:"https://drive.google.com/file/d/1mx05_aXzuXPc9CGW9BJJxgNucczLiQAC/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"선택 데이터",imgurl:"https://drive.google.com/file/d/1INUOw13fSaRtPSKAuVMHSpoIrJp7kN8-/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"데이터 전처리",imgurl:"https://drive.google.com/file/d/1O0XFDpIvpsC9L01qhiXR24rKBNBDRwAy/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"모델 구성과 훈련",imgurl:"https://drive.google.com/file/d/1dSD-AyvAFEMvLFmEzLoacV1-KE57tWET/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/16yj10uj-nxOkGjJIImGoS1yxIHuXocz_/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트데이터 추출 및 정규화",imgurl:"https://drive.google.com/file/d/1VlPAMeFO3CEAuvdn4l1ltPf55SWyDYNm/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트 결과",imgurl:"https://drive.google.com/file/d/1miQMl7wnD8akZ3DSKavSZeTO9UAvVr44/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/boston_housing.py"})//이미지타이틀
+
+
 
 d1.set_fill("서버의 보안성과 각 수행기능별 패턴을 분리하기 위해 Spring WAS 와 사용자 View 기능을 위해 웹브라우져에서 일반적인 작동이 가능한 HTML5 를 구현하며 데이터베이스 연동 대신 파일로 회원목록 저장")//사용자 에필로그
 data_sets.push(d1)
