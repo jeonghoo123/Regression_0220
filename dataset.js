@@ -25,9 +25,17 @@ d1.set_img(0,{imgtitle:"훈련결과시각화",imgurl:"https://drive.google.com/
 d1.set_img(0,{imgtitle:"예측의 예측",imgurl:"https://drive.google.com/file/d/1ThF40yXaY3i4A79uIqk82L3MRMmwWgJH/view?usp=drive_link",imglog:"임의의 데이터를 생성하여 모델의 예측 결과를 표기",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
 
 
-d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
-d1.set_img(1,{imgtitle:"개발언어선정",imgurl:"https://drive.google.com/file/d/15GgAeFgW1Cxctk9PbJagUNfG2UkEU4WS/view?usp=drive_link",imglog:"자바언어기반 스프링프레임워크, html5, memberData file",sourceurl:"https://docs.google.com/document/d/1UvD1fZNL9yjLORwxgAW5vD6C-A_RwL1zcNan9RZqmys/edit?usp=drive_link"})//이미지타이틀
-d1.set_img(1,{imgtitle:"스프링프레임워크",imgurl:"https://drive.google.com/file/d/1HRUQhj2Tk6AzIW_NSRD59wGUAduJYTmW/view?usp=drive_link",imglog:"오픈소스 스프링프레임워크 v4.221",sourceurl:""})//이미지타이틀
+d1.set_content("당뇨환자에 대한 1년 상태 예측, 예측값은 연속 데이터로 출력")
+d1.set_img(1,{imgtitle:"샘플소스코드",imgurl:"https://drive.google.com/file/d/1uvBnhHFrj2xJ4Dm8Bz_6nzwHhqgvXBXs/view?usp=drive_link",imglog:"당뇨환자에 대한 나이, 성별, bmi수치, bp 수치 등 10개의 항목을 측정하여 1년 후 당뇨수치에 대한 증감데이터",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터 수신 및 분석",imgurl:"https://drive.google.com/file/d/1_RA8IB_RuAvDnJ7pDU1JXSHf7Oo5V1t6/view?usp=drive_link",imglog:"sklearn의 diabetes 데이터를 수신하여 항목별 분석과 수치 값 확인",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터 분석을 위한 시각화",imgurl:"https://drive.google.com/file/d/1B9w2LARMx55TbPiDD5kGufmE2qrXczzI/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"선택1",imgurl:"https://drive.google.com/file/d/1-W54NOqG66cUi-MZfZtTX-0yqSDX2c2Y/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"선택2",imgurl:"https://drive.google.com/file/d/1AxQE3UaLAzjcNiYbxt3-VulSkvhekrue/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"데이터 최종확인",imgurl:"https://drive.google.com/file/d/1aMnNjSyfqK0iQjVuaI1lPm0FmtCwK5NC/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"모델 구성과 훈련실행",imgurl:"https://drive.google.com/file/d/1VLXv2rWCaS4EUoBaQBePTCwwWLRi28fj/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/10vqpmsdKWkMwgTgUfp3tTp8TQGJ7HUfc/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+d1.set_img(1,{imgtitle:"테스트데이터 준비와 예측결과",imgurl:"https://drive.google.com/file/d/1E8G0B7c2H3CxfnsONPlRCbpMmK9I9L-D/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/diabet.py"})//이미지타이틀
+
 
 
 d1.set_content("코딩개발도구와 테스트 및 빌드, 패키징, 배포등 개발 전반에 대한 필요한 환경을 설정한다.")
