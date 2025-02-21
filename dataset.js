@@ -22,7 +22,7 @@ d1.set_img(0,{imgtitle:"산점도데이터분석",imgurl:"https://drive.google.c
 d1.set_img(0,{imgtitle:"데이터전처리 표준화",imgurl:"https://drive.google.com/file/d/1CP7Qwi1aqVgfBwHzKSKSJ5aeZfEJ7SFK/view?usp=drive_link",imglog:"훈련시 모델의 올바른 학습을 위해 데이터를 정규분포로 표준화 전처리 시행",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
 d1.set_img(0,{imgtitle:"모델의 구성과 훈련",imgurl:"https://drive.google.com/file/d/1_6VcJBgMBA5f0_VP-l2WwErwz4TIfN2F/view?usp=drive_link",imglog:"Sequential모델 및 압력출력레이어 작성과 mse 오차손실함수 및 역전파시적용 될 SGD(경사하강법) 최적화함수와 200회 훈련 실행",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
 d1.set_img(0,{imgtitle:"훈련결과시각화",imgurl:"https://drive.google.com/file/d/10VjZbxebmZmVWhiF2FRtE4KLvi014zpE/view?usp=drive_link",imglog:"시각화 그래프 판단시 120회 훈련에서 훈련 조기종료를 검토할 수도 있다.",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
-d1.set_img(0,{imgtitle:"예측의 예측",imgurl:"https://drive.google.com/file/d/1ThF40yXaY3i4A79uIqk82L3MRMmwWgJH/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"예측의 예측",imgurl:"https://drive.google.com/file/d/1ThF40yXaY3i4A79uIqk82L3MRMmwWgJH/view?usp=drive_link",imglog:"임의의 데이터를 생성하여 모델의 예측 결과를 표기",sourceurl:"https://github.com/jeonghoo123/Regression_0220/blob/main/LinearRegression/examp_lg.py"})//이미지타이틀
 
 
 d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
