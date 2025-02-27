@@ -57,7 +57,7 @@ data_sets.push(d1)
 
 // menu2 =============================================================
 let d2 = new DataSet("이진분류모델")//메인타이틀
-d2.set_content("종양데이터 분서게 의한 음성과 양성 종양데이터 예측모델")//서브 타이틀
+d2.set_content("종양데이터 분석에 의한 음성과 양성 종양데이터 예측모델")//서브 타이틀
 d2.set_img(0,{imgtitle:"데이터 준비",imgurl:"https://drive.google.com/file/d/1UtEJ_HE94D16MaK_ZrQtjMmjbEAFXo9P/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
 d2.set_img(0,{imgtitle:"데이터 구성 파악",imgurl:"https://drive.google.com/file/d/1lPM_cOg9-3Bh0MpP49WQIZclU0CvgVL8/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
 d2.set_img(0,{imgtitle:"최대값과 표준편차분석",imgurl:"https://drive.google.com/file/d/1tgABpVw8quQUHISbBKgUyWnW_gKhO72G/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
