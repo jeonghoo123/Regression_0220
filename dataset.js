@@ -56,9 +56,21 @@ d1.set_fill("서버의 보안성과 각 수행기능별 패턴을 분리하기 �
 data_sets.push(d1)
 
 // menu2 =============================================================
-let d2 = new DataSet("공통모듈구현")//메인타이틀
-d2.set_content("공통모듈구현을 작성합니다.")//서브 타이틀
-d2.set_img(0,{imgtitle:"요구사항명세서작성",imgurl:"https://drive.google.com/file/d/1nnSKw0su1NKkr-4O3bXNv33_ZZ8D54Qk/view?usp=drive_link",imglog:"작성된 요구사항 명",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
+let d2 = new DataSet("이진분류모델")//메인타이틀
+d2.set_content("종양데이터 분서게 의한 음성과 양성 종양데이터 예측모델")//서브 타이틀
+d2.set_img(0,{imgtitle:"데이터 준비",imgurl:"https://drive.google.com/file/d/1UtEJ_HE94D16MaK_ZrQtjMmjbEAFXo9P/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"데이터 구성 파악",imgurl:"https://drive.google.com/file/d/1lPM_cOg9-3Bh0MpP49WQIZclU0CvgVL8/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"최대값과 표준편차분석",imgurl:"https://drive.google.com/file/d/1tgABpVw8quQUHISbBKgUyWnW_gKhO72G/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"훈련데이터 테스트데이터 분리",imgurl:"https://drive.google.com/file/d/1sOWg6yEE5tyR7rlqYf9j-jF5P1OEuHgI/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"데이터 전처리 및 결과확인",imgurl:"https://drive.google.com/file/d/17KFZdRrfBna1Qa3t06jPedELOPo9SAq9/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"데이터 최종확인",imgurl:"https://drive.google.com/file/d/1RDss1og84l__BsifRWROwGfBYRDnv6Kx/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"모델 구성과 훈련실행",imgurl:"https://drive.google.com/file/d/1kY0v4tneQTU_dFLpcualel6-wdha0Gnb/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/1iYW8oXf5TqkMpjvPh8PB2KRlDaedtJkr/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"모델평가",imgurl:"https://drive.google.com/file/d/1ikrP2Vc-TsyW3xLqATYxH6RUi3VENWIv/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"예측값 출력",imgurl:"https://drive.google.com/file/d/18mK4CEGZBSOCn57djiMGLW91-24yGrss/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"혼동행렬과 시각화 히트맵",imgurl:"https://drive.google.com/file/d/1sVHOOtSB3OB8mznyqmJz1sFWvaZaanI6/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+d2.set_img(0,{imgtitle:"정밀도 재현율 f1score 요약",imgurl:"https://drive.google.com/file/d/11jGhVpr98CDoLOLgKhyQRDStp54XdOrl/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/jeonghoo123/Regression_0220/tree/main/binary_classification_Regression"})//이미지타이틀
+
 
 d2.set_content("테스트케이스를 작성합니다.")
 d2.set_img(1,{imgtitle:"요구사항명세서작성",imgurl:"https://drive.google.com/file/d/1nnSKw0su1NKkr-4O3bXNv33_ZZ8D54Qk/view?usp=drive_link",imglog:"작성된 요구사항 명",sourceurl:"https://docs.google.com/document/d/1fYO-WllL1nq8-qJC6Aj8fTeQplv7hvQzxUfRQAgAamo/edit?usp=drive_link"})//이미지타이틀
